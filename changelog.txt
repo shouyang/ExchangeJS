@@ -1,0 +1,9 @@
+Change Log
+=====
+
+
+Merge pull request #1 from shouyang/shouyang-patch-1
+
+Added Greeting to README.md
+Update README.md
+Initial commit
